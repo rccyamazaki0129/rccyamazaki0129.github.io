@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 Jun 2021 13:42:05 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 14:38:15 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PostGeneratorTest</title>
+      <link>/posts/postgeneratortest/</link>
+      <pubDate>Sat, 05 Jun 2021 14:38:15 +0900</pubDate>
+      
+      <guid>/posts/postgeneratortest/</guid>
+      <description>This post is created by PostGenerator script. Isn&amp;rsquo;t this cool?
+now I have to learn how to write mark-down to make these articles look nicer.</description>
+    </item>
+    
     <item>
       <title>Third post from Rei yamazaki</title>
       <link>/posts/thirdpost/</link>

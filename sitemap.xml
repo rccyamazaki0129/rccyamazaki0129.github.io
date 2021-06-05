@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rccyamazaki0129.github.io/posts/mypost/</loc>
+    <loc>/rccyamazaki0129.github.io/posts/mypost/</loc>
     <lastmod>2021-06-05T09:28:41+09:00</lastmod>
   </url><url>
-    <loc>http://rccyamazaki0129.github.io/posts/</loc>
+    <loc>/rccyamazaki0129.github.io/posts/</loc>
     <lastmod>2021-06-05T09:28:41+09:00</lastmod>
   </url><url>
-    <loc>http://rccyamazaki0129.github.io/</loc>
+    <loc>/rccyamazaki0129.github.io/</loc>
     <lastmod>2021-06-05T09:28:41+09:00</lastmod>
   </url><url>
-    <loc>http://rccyamazaki0129.github.io/categories/</loc>
+    <loc>/rccyamazaki0129.github.io/categories/</loc>
   </url><url>
-    <loc>http://rccyamazaki0129.github.io/tags/</loc>
+    <loc>/rccyamazaki0129.github.io/tags/</loc>
   </url>
 </urlset>

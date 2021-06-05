@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rei rei rei</title>
+    <link>http://rccyamazaki0129.github.io/posts/</link>
+    <description>Recent content in Posts on Rei rei rei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jun 2021 09:28:41 +0900</lastBuildDate><atom:link href="http://rccyamazaki0129.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>http://rccyamazaki0129.github.io/posts/mypost/</link>
+      <pubDate>Sat, 05 Jun 2021 09:28:41 +0900</pubDate>
+      
+      <guid>http://rccyamazaki0129.github.io/posts/mypost/</guid>
+      <description>This is my very first post!! I have absolutely no idea what to say.
+public static void main(){ printf(&amp;#34;Hello, world!&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>

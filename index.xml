@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 Jun 2021 14:38:15 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 16:11:42 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>/posts/markdowntest/</link>
+      <pubDate>Sat, 05 Jun 2021 16:11:42 +0900</pubDate>
+      
+      <guid>/posts/markdowntest/</guid>
+      <description>Heading1 Heading2 Heading3 Heading4 This text is italic This text italic too
+This Text is strikethrough
+Horizontal Rule Another Rule
+ </description>
+    </item>
+    
     <item>
       <title>PostGeneratorTest</title>
       <link>/posts/postgeneratortest/</link>

@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 Jun 2021 13:18:17 +0900</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 13:42:05 +0900</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third post from Rei yamazaki</title>
+      <link>/posts/thirdpost/</link>
+      <pubDate>Sat, 05 Jun 2021 13:42:05 +0900</pubDate>
+      
+      <guid>/posts/thirdpost/</guid>
+      <description>first line
+second line
+third line fourth line fifth line
+can you see this?</description>
+    </item>
+    
     <item>
       <title>Second post</title>
       <link>/posts/secondpost/</link>
